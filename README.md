@@ -7,4 +7,4 @@ AF-CALVADOS: AlphaFold-guided simulations of multi-domain proteins at the proteo
 bioRxiv 2025
 
 The notebooks for the parameterisation figures and cytosol (transcription factor) figures can be found in the respective folders.
-To use the notebooks, additional data needs to be downloaded from the corresponding ERDA repository: https://sid.erda.dk/sharelink/gfZNiWkxRT
+To use the notebooks, additional data need to be downloaded from the corresponding ERDA repository: https://sid.erda.dk/sharelink/gfZNiWkxRT
