@@ -13,4 +13,4 @@ To use the notebooks, additional data need to be downloaded from the correspondi
 Individual simulations can be retrieved from a tree-structured ERDA repository: [Repository](https://sid.erda.dk/sharelink/FxaWhNrQgp)
 
 AF-CALVADOS is integrated in the [CALVADOS](https://github.com/KULL-Centre/CALVADOS) package.
-Single-chain simulations with AF-CALVADOS can also be run via a Google Colab: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KULL-Centre/_2025_buelow_AF-CALVADOS/blob/develop/AF_CALVADOS.ipynb)
+Single-chain simulations with AF-CALVADOS can also be run via a Google Colab: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KULL-Centre/_2025_buelow_AF-CALVADOS/blob/main/AF_CALVADOS.ipynb)
