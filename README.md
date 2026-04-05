@@ -8,6 +8,9 @@ bioRxiv 2025
 
 The notebooks for the parameterisation figures and cytosol (transcription factor) figures can be found in the respective folders.
 
-To use the notebooks, additional data need to be downloaded from the corresponding ERDA repository: https://sid.erda.dk/sharelink/gfZNiWkxRT
+To use the notebooks, additional data need to be downloaded from the corresponding ERDA repository: [Repository](https://sid.erda.dk/sharelink/gfZNiWkxRT)
 
-Individual simulations can be retrieved from a tree-sctructured ERDA repository: https://sid.erda.dk/sharelink/FxaWhNrQgp
+Individual simulations can be retrieved from a tree-structured ERDA repository: [Repository](https://sid.erda.dk/sharelink/FxaWhNrQgp)
+
+AF-CALVADOS is integrated in the [CALVADOS](https://github.com/KULL-Centre/CALVADOS) package.
+Single-chain simulations with AF-CALVADOS can also be run via a Google Colab: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KULL-Centre/_2025_buelow_AF-CALVADOS/blob/develop/AF_CALVADOS.ipynb)
